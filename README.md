@@ -7,3 +7,6 @@
 949. [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) - [Solution](./src/Largest_Time_for_Given_Digits.cpp)
 9. [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - [Solution](./src/Palindrome_Number.cpp)
 4. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) - [Solution](./src/Median_Of_Two_Sorted_Arrays.cpp)
+13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) - [Solution](./src/Roman_To_Integer.cpp)
+300. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - [Solution](./src/Longest_Increasing_Subsequence.cpp)
+
