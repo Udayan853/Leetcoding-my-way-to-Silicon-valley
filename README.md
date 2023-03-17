@@ -9,4 +9,7 @@
 4. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) - [Solution](./src/Median_Of_Two_Sorted_Arrays.cpp)
 13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) - [Solution](./src/Roman_To_Integer.cpp)
 300. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - [Solution](./src/Longest_Increasing_Subsequence.cpp)
+14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) - [Solution](./src/LCP.cpp)
+5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - [Solution](./src/Longest_Palindromic_Substring.cpp)
+
 
