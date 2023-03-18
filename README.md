@@ -11,5 +11,7 @@
 300. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - [Solution](./src/Longest_Increasing_Subsequence.cpp)
 14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) - [Solution](./src/LCP.cpp)
 5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - [Solution](./src/Longest_Palindromic_Substring.cpp)
-
+6. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - [Solution](./src/Zigzag-Conversion.cpp)
+7. [Reverse Integer](https://leetcode.com/problems/reverse-integer) - [Solution](./src/Reverse_Integer.cpp)
+21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - [Solution](./src/Merge_Two_Sorted_Lists.cpp)
 
