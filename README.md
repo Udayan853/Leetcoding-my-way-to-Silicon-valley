@@ -15,4 +15,8 @@
 7. [Reverse Integer](https://leetcode.com/problems/reverse-integer) - [Solution](./src/Reverse_Integer.cpp)
 21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - [Solution](./src/Merge_Two_Sorted_Lists.cpp)
 11. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - [Solution](./src/Container_With_Most_Water.cpp)
+15. [3Sum](https://leetcode.com/problems/3sum) - [Solution](./src/3Sum.cpp)
+20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - [Solution](./src/Valid_Parentheses.cpp)
+17. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) - [Solution](./src/Letter-Combinations-Of-A-Phone-Number)
+
 
