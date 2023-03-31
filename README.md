@@ -20,5 +20,6 @@
 17. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) - [Solution](./src/Letter-Combinations-Of-A-Phone-Number.cpp)
 19. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) - [Solution](./src/Remove-Nth-Node-From-End-Of-List.cpp)
 26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - [Solution](./src/Remove_Duplicates_From_Sorted_Array.cpp)
+16. [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) - [Solution](./src/3Sum_Closest.cpp)
 
 
